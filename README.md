@@ -1,4 +1,4 @@
-# 🏥 Infosys Internship - AI Enhanced EHR System Complete Project
+# 🏥 Infosys Internship - AI Enhanced EHR Imaging and Documentation System Complete Project
 
 [![GitHub](https://img.shields.io/badge/GitHub-Repository-blue.svg)](https://github.com/DivyaPrabha19/Infosys)
 [![Python 3.9+](https://img.shields.io/badge/python-3.9+-blue.svg)](https://www.python.org/downloads/)
@@ -335,7 +335,7 @@ python main.py
 
 ## 📞 Contact & Support
 
-- **Developer**: Divya Prabha
+- **Developer**: Divya Prabha Shree N S
 - **Email**: nsdivyaprabha19@gmail.com
 - **GitHub**: [DivyaPrabha19](https://github.com/DivyaPrabha19)
 - **Repository**: [Infosys Project](https://github.com/DivyaPrabha19/Infosys)
