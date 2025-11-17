@@ -441,7 +441,7 @@ python main.py
 - **Email**: nsdivyaprabha19@gmail.com
 - **GitHub**: [DivyaPrabha19](https://github.com/DivyaPrabha19)
 - **Repository**: [Infosys Project](https://github.com/DivyaPrabha19/Infosys)
-- **Live Demo**: [AI Enhanced EHR Imaging AND Documentation System](https://ai-enhanced-ehr-imaging-system.netlify.app)
+- **Live Demo**: [AI Enhanced EHR Imaging and Documentation System](https://ai-enhanced-ehr-imaging-system.netlify.app)
 
 ## 📄 License
 
