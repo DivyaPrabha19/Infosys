@@ -5,11 +5,11 @@
 [![License: MIT](https://img.shields.io/badge/License-MIT-yellow.svg)](https://opensource.org/licenses/MIT)
 [![Infosys](https://img.shields.io/badge/Infosys-Internship-orange.svg)](https://www.infosys.com/)
 
-A comprehensive AI-powered Electronic Health Record (EHR) system developed during Infosys internship, featuring data preprocessing, brain tumor detection, and complete EHR imaging & documentation system across three progressive milestones.
+A comprehensive AI Enhanced EHR Imaging and Documentation System developed during Infosys internship, featuring data preprocessing, brain tumor detection, and complete EHR imaging & documentation system across four progressive milestones.
 
 ## 📋 Project Overview
 
-This project demonstrates the complete development lifecycle of an AI-enhanced EHR system, progressing from basic data preprocessing to advanced medical image analysis and comprehensive healthcare documentation system.
+This project demonstrates the complete development lifecycle of an AI Enhanced EHR Imaging and Documentation System, progressing from basic data preprocessing to advanced medical image analysis and comprehensive healthcare documentation system.
 
 ### 🎯 Project Objectives
 - Develop AI-powered medical image analysis capabilities
@@ -135,8 +135,8 @@ MILESTONE 3/
 
 ---
 
-### 🚀 **Milestone 4: Advanced AI Enhanced EHR System**
-**Focus**: Production-ready healthcare application with enhanced AI capabilities
+### 🚀 **Milestone 4: Advanced AI Enhanced EHR Imaging and Documentation System**
+**Focus**: Production-ready AI Enhanced EHR Imaging and Documentation System with enhanced AI capabilities
 
 #### Features Implemented:
 - ✅ **Enhanced AI Models** - Improved brain tumor detection with higher accuracy
@@ -297,7 +297,7 @@ Infosys/
 │   │   ├── main.py            # Production-ready FastAPI
 │   │   └── requirements.txt   # Enhanced dependencies
 │   ├── README.md              # Milestone 4 documentation
-└── README.md                  # Complete project overview
+└── README.md  # Complete project overview
 ```
 
 ## 🎨 UI/UX Design Highlights
@@ -449,7 +449,7 @@ This project is licensed under the MIT License - see the [LICENSE](LICENSE) file
 ---
 
 <div align="center">
-  <strong>🏥 Built with ❤️ for Healthcare Innovation during Infosys Internship</strong>
+  <strong>🏥 AI Enhanced EHR Imaging and Documentation System - Built with ❤️ for Healthcare Innovation during Infosys Internship</strong>
   <br>
   <em>Advancing Medical Technology through AI and Data Science</em>
 </div>
